@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: hrishi
+Build-Jdk: 10.0.1
+Implementation-Title: student-form-handling
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.studentdetails
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/student-form
+ -handling/
+Created-By: Maven Integration for Eclipse
+
